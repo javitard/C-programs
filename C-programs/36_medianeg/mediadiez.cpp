@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	   suma = 0;
     int resp = 0;
 
-    printf("Introduce nuevo número:");
+    printf("Introduce nuevo número:\n");
 
     while(numero >= 0){
 	printf("Numero: ");
